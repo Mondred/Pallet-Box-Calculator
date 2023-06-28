@@ -1,5 +1,5 @@
 import React from 'react';
-import PalletBoxCalculator from '../PalletBoxCalculator';
+import PalletBoxCalculator from './PalletBoxCalculator';
 
 function App() {
   return (
