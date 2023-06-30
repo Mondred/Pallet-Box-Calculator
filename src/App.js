@@ -1,10 +1,13 @@
 import React from 'react';
-import PalletBoxCalculator from './PalletBoxCalculator';
+import PalletBoxCalculator from './BoxPallet';
+
+import './App.css';
 
 function App() {
   return (
-    <div>
+    <div className="App">
       <PalletBoxCalculator />
+      
     </div>
   );
 }
